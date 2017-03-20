@@ -1,11 +1,11 @@
 # Node.js
-> Node.js Orientation
+
 
 - 해당 내용은 아래의 강좌들을 참조하였습니다.
 
 	[생활코딩 - Node.js를 이용해 웹 어플리케이션 만들기](https://www.inflearn.com/course/nodejs-%EA%B0%95%EC%A2%8C-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/)
 	
-
+## 1. Node.js ?
 - 의	문
 
 	"JavaScript만을 이용해서 웹 어플리케이션을 만들수 있을까?"
@@ -45,9 +45,9 @@
 		- Python, Ruby, PHP, Java 등 Server Side 기술들
 
 
-> Node.js 의 장점
+	> Node.js 의 장점
 
-- 속도가 빠름
-- WEB과 Server Side 모두에서 JavaScript를 사용 
-	→ JavaScript 만으로 완결된 어플리케이션이 작성 가능
+	- 속도가 빠름
+	- WEB과 Server Side 모두에서 JavaScript를 사용 
+		→ JavaScript 만으로 완결된 어플리케이션이 작성 가능
 
