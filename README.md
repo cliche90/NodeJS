@@ -10,10 +10,11 @@
 
 	**"JavaScript" 만을 이용해서 웹 어플리케이션을 만들수 있을까?"**
 
-
 	> JavaScript
 
 	- 최초의 JavaScript는 Web에서만 동작 → JavaScript의 중요도는 생각보다 낮게 여겨짐.
+
+	</br>
 
 	> Node.js 에 이르기까지...
 
