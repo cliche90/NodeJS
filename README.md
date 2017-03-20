@@ -10,13 +10,11 @@
 
 	**"JavaScript" 만을 이용해서 웹 어플리케이션을 만들수 있을까?"**
 
-	> JavaScript
+- JavaScript
 
-	- 최초의 JavaScript는 Web에서만 동작 → JavaScript의 중요도는 생각보다 낮게 여겨짐.
+	 최초의 JavaScript는 Web에서만 동작 → JavaScript의 중요도는 생각보다 낮게 여겨짐.
 
-	</br>
-
-	> Node.js 에 이르기까지...
+- Node.js 에 이르기까지...
 
 		"1990" Tim Berners-Lee, WEB 탄생
 
@@ -36,17 +34,17 @@
 		 - event-driven
 		 - non-blocking 10
 		 
-	> "Node.js" vs "Broswer"
+- "Node.js" vs "Broswer"
 
-		- 둘 모두 JavaScript라는 언어를 사용
-		- 각각 Client Side, Server Side에서 협력적 관계
+	- 둘 모두 JavaScript라는 언어를 사용
+	- 각각 Client Side, Server Side에서 협력적 관계
 
-	> Node.js 의 경쟁자
+- Node.js 의 경쟁자
 
-		- Python, Ruby, PHP, Java 등 Server Side 기술들
+	- Python, Ruby, PHP, Java 등 Server Side 기술들
 
 
-	> Node.js 의 장점
+- Node.js 의 장점
 
 	- 속도가 빠름
 	- WEB과 Server Side 모두에서 JavaScript를 사용 
