@@ -6,9 +6,8 @@
 	[생활코딩 - Node.js를 이용해 웹 어플리케이션 만들기](https://www.inflearn.com/course/nodejs-%EA%B0%95%EC%A2%8C-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/)
 	
 ## 1. Node.js ?
-- 의	문
 
-	**"JavaScript" 만을 이용해서 웹 어플리케이션을 만들수 있을까?"**
+<center><strong>"JavaScript" 만을 이용해서 웹 어플리케이션을 만들수 있을까?"</strong></center>
 
 - JavaScript
 
