@@ -1,12 +1,17 @@
 var express = require('express');
 var app = express();
+app.locals.pretty = true;
 app.set('view engine', 'jade');
-app.set('views', './views');        // 없어도 자동으로 views 디렉토리를 찾는다.
+app.set('views', './views');        // 없으면 자동으로 views 디렉토리를 찾는다.
 app.use(express.static('public'));  // Directory 명을 넣어두면 정적인 파일 서비스 가능
-app.get('/template', function(req, res){
-    res.render('temp');
-});
 
+app.get('/template', function(req, res){
+    var params = {
+        time: Date(),
+        title: 'Jade'
+    }
+    res.render('temp', params);
+});
 app.get('/', function(req, res){
     res.send('Hello home page');
 });
