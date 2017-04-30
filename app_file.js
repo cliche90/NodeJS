@@ -78,5 +78,5 @@ app.post('/topic', function(req, res){
  
 
 app.listen(3000, function(){
-    console.log('Connected, 300 port!!');
+    console.log('Connected, 3000 port!!');
 });
